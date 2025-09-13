@@ -2,8 +2,8 @@
 -------------------------------------------------------------
 
 
-|`help`|Exibe uma mensagem de ajuda para o comando
-|----|------------------------------------------|
+ |`help`|Exibe uma mensagem de ajuda para o comando
+
 |`del`|Exclui arquivos
 |`Systeminfo`|Exibe informações detalhadas sobre o sistema operacional e Hardware do seu computador
 |`format`| O comando format permite formatar a unidade de disco ou unidade de armanezamento
